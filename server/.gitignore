@@ -58,6 +58,9 @@ typings/
 # next.js build output
 .next
 
+# env files (can opt-in for committing if needed)
+.env*
+
 package-lock.json
 
 .DS_Store
